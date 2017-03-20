@@ -1,0 +1,2 @@
+Blast of singletons at PETA
+ohup /data2/Marcela/scripts/ncbi-blast-2.4.0+/bin/blastp -query /data2/Marcela/marcela.fasta.an/marcela.fasta.singletons.ortho.fa -db /data2/BLASTdb/nr -evalue 1e-05 -num_threads 4 -out marcela.fasta.singletons.ortho.fa.blast-NR.1e05 &
