@@ -5,3 +5,7 @@ nohup /data2/Marcela/scripts/ncbi-blast-2.4.0+/bin/blastp -query /data2/Marcela/
 # 24th April, 2017
 # Igor said he can make the circus Image as long as I send him the scaffolds and the alligments coordinates. I'll see how to generate this output now.
 #Where are the aligment files?
+#genome file is named Draftfinal_itr6.pilon6.fasta or 
+#RNA reads to final genome scaffolds in /data2/Marcela/hisat2/
+
+
