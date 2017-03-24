@@ -1,2 +1,7 @@
-Blast of singletons at PETA
+#Blast of singletons at PETA
 nohup /data2/Marcela/scripts/ncbi-blast-2.4.0+/bin/blastp -query /data2/Marcela/marcela.fasta.an/marcela.fasta.singletons.ortho.fa -db /data2/BLASTdb/nr -evalue 1e-05 -num_threads 4 -out marcela.fasta.singletons.ortho.fa.blast-NR.1e05 &
+
+
+# 24th April, 2017
+# Igor said he can make the circus Image as long as I send him the scaffolds and the alligments coordinates. I'll see how to generate this output now.
+#Where are the aligment files?
